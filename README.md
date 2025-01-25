@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karina Ivashikna.
 - 👀 I have been programming since 2020, using HTML and CSS.
-- 🌱 I’m currently learning flex and grid practice.
+- 🌱 I’m currently learning flex and grid practice, JavaScript.
 - 💞️ I’m looking to collaborate on Web.
 - 📫 Mail: karolina_ivashkina@bk.ru
 
